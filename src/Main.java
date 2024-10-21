@@ -7,6 +7,6 @@ public class Main {
         System.out.println("Hello Person");
         System.out.println("Hello Mikkel");
         System.out.println("Hello Daniel");
-        System.out.println("Hello Jens");
+        System.out.println("Hello Signe");
     }
 }
